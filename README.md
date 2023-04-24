@@ -3,7 +3,7 @@ Autonomous AI Assistant fully capable of performing tasks on its own.
 JOIN US ON DISCORD: https://discord.com/channels/1099871467426025602/1099871467426025605
 
 WELCOME LordGPT is an automated AI Assistant that can accomplish a wide range of tasks.
-- Browse Internet and Research
+- Browse Internet and Research.
 - Read and Write local files.
 - Generate Python Scripts, and even write its own commands to further is capabilities.
 - Search Google
